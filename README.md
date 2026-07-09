@@ -93,6 +93,12 @@ Analyzes revenue, customers, and orders across different countries.
 - Power Query
 - DAX
 - Microsoft Excel
+- # **Repository Structuer**
+  
+Retail-Sales-Analysis/
+
+│── PDF Report: (https://docs.google.com/document/d/19QymRV7SzcUoSQz3ErqOuTVPCreGyriB/edit?usp=sharing&ouid=114041052825347382033&rtpof=true&sd=true)
+
 
 # **Conclusion**
 
