@@ -44,7 +44,7 @@ Tables:
 
 Relationships were established between the tables to support time intelligence and customer analysis.
 
-## DAX Measures
+# **DAX Measures**
 
 Some of the measures created include:
 
@@ -57,8 +57,6 @@ Some of the measures created include:
 - Revenue
 
 # **Dashboard**
-
-## Dashboards
 
 ### Executive Dashboard
 
@@ -83,7 +81,7 @@ Analyzes revenue, customers, and orders across different countries.
 - How do sales change over time?
 - How are customers segmented using RFM Analysis?
 
-# ** Key Insights**
+# **Key Insights**
 - United Kingdom generated the highest revenue.
 - Revenue peaked during November.
 - Champion customers generated the highest customer value.
@@ -96,7 +94,7 @@ Analyzes revenue, customers, and orders across different countries.
 - DAX
 - Microsoft Excel
 
-# **# Repository Structure
+# **Repository Structure**
 
 Retail-Sales-Analysis/
 
@@ -110,5 +108,6 @@ Retail-Sales-Analysis/
 
 │── Screenshots/
 
-#**Conclusion**
+# **Conclusion**
+
 This project demonstrates the use of Power BI for transforming raw retail sales data into interactive dashboards that provide meaningful business insights for sales, customers, products, and country performance.
