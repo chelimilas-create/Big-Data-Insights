@@ -106,7 +106,7 @@ PDF Report: (https://docs.google.com/document/d/19QymRV7SzcUoSQz3ErqOuTVPCreGyri
 
 This project demonstrates the use of Power BI for transforming raw retail sales data into interactive dashboards that provide meaningful business insights for sales, customers, products, and country performance.
 
-Author
+# **Author**
 
 Chelimila Sahithi
 
