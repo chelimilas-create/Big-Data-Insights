@@ -94,20 +94,6 @@ Analyzes revenue, customers, and orders across different countries.
 - DAX
 - Microsoft Excel
 
-# **Repository Structure**
-
-Retail-Sales-Analysis/
-
-│── Dataset/
-
-│── Dashboard.pbix
-
-│── Report.pdf
-
-│── README.md
-
-│── Screenshots/
-
 # **Conclusion**
 
 This project demonstrates the use of Power BI for transforming raw retail sales data into interactive dashboards that provide meaningful business insights for sales, customers, products, and country performance.
